@@ -1,3 +1,6 @@
+/* OpenCL ray tracing tutorial by Sam Lapere, 2016
+http://raytracey.blogspot.com */
+
 struct Ray{
 	float3 origin;
 	float3 dir;
